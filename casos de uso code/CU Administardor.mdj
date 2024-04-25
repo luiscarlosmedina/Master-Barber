@@ -3047,17 +3047,18 @@
 									"model": {
 										"$ref": "AAAAAAGPDQH3NYEY59A="
 									},
-									"visible": false,
 									"font": "Arial;13;0",
-									"left": 714,
+									"left": 690,
 									"top": 268,
+									"width": 48.7880859375,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
 									"hostEdge": {
 										"$ref": "AAAAAAGPDQH3NYEcNFk="
 									},
-									"edgePosition": 1
+									"edgePosition": 1,
+									"text": "+include"
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -3316,17 +3317,18 @@
 									"model": {
 										"$ref": "AAAAAAGPDQIOm4GmSIA="
 									},
-									"visible": false,
 									"font": "Arial;13;0",
-									"left": 769,
+									"left": 745,
 									"top": 292,
+									"width": 48.7880859375,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
 									"hostEdge": {
 										"$ref": "AAAAAAGPDQIOm4Gqa8k="
 									},
-									"edgePosition": 1
+									"edgePosition": 1,
+									"text": "+include"
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -3784,17 +3786,18 @@
 									"model": {
 										"$ref": "AAAAAAGPDQKFG4QBy24="
 									},
-									"visible": false,
 									"font": "Arial;13;0",
-									"left": 790,
+									"left": 766,
 									"top": 336,
+									"width": 48.7880859375,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
 									"hostEdge": {
 										"$ref": "AAAAAAGPDQKFG4QFzCA="
 									},
-									"edgePosition": 1
+									"edgePosition": 1,
+									"text": "+include"
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -4219,6 +4222,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGPDMa/rN8KTq4="
 							},
+							"name": "include",
 							"end1": {
 								"_type": "UMLAssociationEnd",
 								"_id": "AAAAAAGPDQH3NYEZQDo=",
@@ -4246,6 +4250,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGPDMa/rN8KTq4="
 							},
+							"name": "include",
 							"end1": {
 								"_type": "UMLAssociationEnd",
 								"_id": "AAAAAAGPDQIOm4GniEI=",
@@ -4273,6 +4278,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGPDMa/rN8KTq4="
 							},
+							"name": "include",
 							"end1": {
 								"_type": "UMLAssociationEnd",
 								"_id": "AAAAAAGPDQKFG4QCXv4=",
