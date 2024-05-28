@@ -52,6 +52,7 @@ body{
 }
 
 .container button{
+    border-radius: 30vh;
     background-color: #512da8;
     color: #fff;
     font-size: 12px;
