@@ -359,7 +359,9 @@ textarea {
 }
 
 
-
+.logo {
+    image-rendering: auto;
+}
 
 
 @media(max-width: 991px) {
