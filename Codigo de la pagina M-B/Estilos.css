@@ -18,7 +18,7 @@ body{
 
 #body{
     min-height: 100vh;
-    background: url(MASTER_BARBER/images/bg-2.png) no-repeat center center fixed ;
+    background: url(./images/bg-2.png) no-repeat center center fixed ;
     background-size: cover;
 }
 
