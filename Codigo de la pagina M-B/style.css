@@ -26,12 +26,11 @@ body {
     background-position: center; 
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 70vh; 
+    min-height: 100vh; 
     align-items: center;
 }
 
 .menu {
-    position: absolute;
     top: 0;
     left: 0;
     right: 0;
@@ -58,6 +57,7 @@ body {
     padding: 20px;
     color: #FFFFFF;
     display: block;
+    margin-top: 19px;
 }
 
 .menu .navbar ul li a:hover{
@@ -89,7 +89,7 @@ body {
     text-transform: uppercase;
     font-family: "Bebas Neue", sans-serif;
     color: #CF2D3A;
-    margin-bottom: 15px;
+    margin-top: 100px;
 }
 
 .header-txt span {
@@ -301,6 +301,7 @@ td {
 
 .personal-1 h3 {
     font-size: 22px;
+    margin-top: 0;
 }
 
 .personal-1 p {
@@ -356,8 +357,6 @@ textarea {
 .shop {
     text-align: center;
 }
-
-
 
 
 
