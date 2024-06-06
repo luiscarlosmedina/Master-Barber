@@ -124,7 +124,7 @@ body {
     justify-content: space-between;
     text-align: center;
     margin-top: 50px;
-    margin-right: 55px;
+    margin-right: 100px;
 }
 
  .dir h3 {
@@ -296,6 +296,7 @@ td {
     margin-bottom: 25px;
     margin: 2px;
     left: 10px;
+    margin-right: 50px;
 }
 
 .personal-1 h3 {
